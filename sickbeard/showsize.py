@@ -1,4 +1,4 @@
-# Display show size on media from tehspede and tattoomees
+# Display show size on media from tehspede and tattoomees.
 import os
 def human(size):
     """
